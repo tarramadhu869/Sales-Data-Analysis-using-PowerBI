@@ -10,14 +10,23 @@ In this project, You will delve into a sizable sales dataset for this assignment
 
 **COLUMN DESCRIPTION FOR SALES DATA ANALYSIS:**
 • ORDER ID
+
 • PRODUCT
+
 • QUANTITY ORDERED
+
 • PRICE EACH
+
 • ORDER DATE
+
 • PURCHASE ADDRESS
+
 • MONTH
+
 • SALES
+
 • CITY
+
 • HOUR
 
 **EXECUTION PART:**
